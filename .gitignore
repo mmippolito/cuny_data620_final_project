@@ -1,3 +1,8 @@
 .apikey
+.apikey_yandex
 ideas.txt
 test.ipynb
+.ipynb_checkpoints/*
+tmp*.txt
+*_old.*
+*_old2.*

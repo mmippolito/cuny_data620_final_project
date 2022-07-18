@@ -1,0 +1,30 @@
+suffix	ee	individual does something	referee, employee, trustee, retiree
+suffix	eer	engaged in something, associated with something	auctioneer, volunteer, engineer, profiteer
+suffix	er	someone who performs an action	helper, teacher, preacher, dancer
+suffix	ion	the action or process of	celebration, opinion, decision, revision
+suffix	ism	theory, act or belief	criticism, humanism, professionalism, patirotism
+suffix	ity	the state or condition of	probability, equality, abnormality, civility
+suffix	ment	the action or result of	movement, retirement, abandonment, establishment
+suffix	ness	a state or quality	fondness, awareness, kindness, darkness
+suffix	or	a person who is something	distributor, investigator, translator, conductor
+suffix	sion	state or being	depression, confusion, tension, compulsion
+suffix	ship	position held	worship, ownership, courtship, internship
+suffix	th	state or quality	strength, labyrinth, depth, warmth
+suffix	able, -ible	capable of being	preventable, adaptable, predictable, credible
+suffix	al	pertaining to	theatrical, natural, criminal, seasonal
+suffix	ant	inclined to or tending to	vigilant, defiant, brilliant, reliant
+suffix	ary	of or relating to	budgetary, planetary, military, honorary
+suffix	ful	full of or notable of	grateful, beautiful, wonderful, fanciful
+suffix	ic	relating to	iconic, organic, heroic, poetic
+suffix	ious, -ous	having qualities of	gracious, cautious, humorous, fabulous
+suffix	ive	quality or nature of	creative, expensive, expressive, preventive
+suffix	less	without something	hopeless, faultless, fearless, restless
+suffix	y	made up of or characterized by	brainy, fruity, tasty, grouchy
+suffix	ed	past-tense version of a verb	laughed, climbed, called, missed
+suffix	en	become	soften, fasten, lengthen, strengthen
+suffix	er	action or process, making an adjective comparative	faster, bigger, fuller, longer
+suffix	ing	verb form/present participle of an action	laughing, swimming, driving, writing
+suffix	ize, -ise	to cause or to become	memorialize, authorize, commercialize, advertise
+suffix	ly	in what manner something is being done	bravely, simply, honestly, gladly
+suffix	ward	in a certain direction	backward, wayward, awkward, afterward
+suffix	wise	in relation to	clockwise, edgewise, lengthwise, otherwise

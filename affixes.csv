@@ -1,0 +1,153 @@
+infix,bio,of life,"symbiotic, antibiotic, abiotic",done
+infix,cog,thinking,"recognize, incognito",done
+infix,di,two,biodiversity,done
+infix,dist,far away,equidistant,done
+infix,hydr,of whater,"dehydrate, anhydrate",done
+infix,just,fair,injustice,done
+infix,morph,of change or shape,"amorphous, metamorphosis, heteromorphic",done
+infix,mort,of death,immortal,done
+infix,nat,of life,unnatural,done
+infix,olog,the study of something,"geology, meteorology, mythology, anthropologic",done
+infix,phil,having the love of something,"anglophile, francophilia",done
+infix,phob,having the fear of something,"zoophobia, euphobia, acrophobia, claustrophobic",done
+infix,press,of force,impressive,done
+infix,sym,the same,assymetric,done
+infix,viv,of live,convivial,done
+prefix,a,"lacking, without, not","amoral, atheist, abiotic",done
+prefix,ab,"away, removed, not","abnormal, abstract, absent",done
+prefix,agor,of wide spaces,agoraphobia,done
+prefix,amor,of love,amorous,done
+prefix,an,"without, not, lacking","anaerobic, anacoustic, anhydrous",done
+prefix,ante,"before, prior to, front","antebellum, antechamber, anterior",done
+prefix,anti,"against, opposing, contrary to","antibiotic, antifreeze, antisocial",done
+prefix,aqu,of water,"aquatic, aquaduct, aqueous",done
+prefix,arach,of spiders,arachnophobia,done
+prefix,aud,of hearing,"auditory, audition, auditorium",done
+prefix,auto,"self, one's self, yourself","autobiography, autograph, autonomy",done
+prefix,bene,good or goodness,"benevolent, benefit, benefactor",done
+prefix,bi,two,"bisexual, bilateral, binary",done
+prefix,bio,of life,"biology, biohazard, biomass",done
+prefix,blan,white,"blank, bland, blanch",done
+prefix,chron,of time,"chronological, chronometer, chronicle",done
+prefix,circum ,"around, go around","circumnavigate, circumscribe, circumvent",done
+prefix,co,"jointly, with, together","coexist, copilot, coworker",done
+prefix,cog,think,"cognition, cogitate",done
+prefix,com,"together, with","commiserate, compartment, community",done
+prefix,con,"with, together","confound, confluence, conversation",done
+prefix,contra,"contrary to, against, opposing","contraindicated, contralateral, contraflow",done
+prefix,counter,"opposing, contrary to, against","counterproposal, counteroffer, counter-attack",done
+prefix,de,"reverse, undo, remove","deactivate, de-ice, deplane",done
+prefix,demi,half,"demigod, demimonde",done
+prefix,dis,"remove, separate, apart from","disagree, disapprove, disconnect",done
+prefix,dist,far away,"distant, distal, equidistant",done
+prefix,div,awa,"divide, diverse, divurge",done
+prefix,en,"put into, surround","encase, endow, envelope",done
+prefix,equ,the same,"equate, equal, equilateral, equivocal",done
+prefix,ex,"away from, former, lacking","ex-husband, ex-wife, ex-boss",done
+prefix,exo,"out, outer","exhale, extend, exoskeleton",done
+prefix,extra,"beyond, more","extracurricular, extraterrestrial, extravert",done
+prefix,flu,flowing,"fluid, fluent, flux, fluvial",done
+prefix,gyn,of women,gynecology,done
+prefix,hemi,half,hemisphere,done
+prefix,hetero,"different, not the same","heterogeneous, heterosexual, heterocyst",done
+prefix,homo,"same, not different","homogenize, homophone, homosexual",done
+prefix,hydr,of water,"hydrant, hydrate, hydrology",done
+prefix,hyper,"extreme, beyond","hyperactive, hyperspace, hypertension,",done
+prefix,il,"not, lacking, without","illegal, illegible, illogical",done
+prefix,im,"without, not, lacking","impossible, improper, impermeable",done
+prefix,in,"no, without, lacking","injustice, incomplete, invisible",done
+prefix,inter,"between, in the midst of, among","intermittent, intersect, interstate",done
+prefix,intra,between two things,"intramural, intrasttate",done
+prefix,ir,"not, non, opposite","irreversible, irreplaceable, irregular",done
+prefix,jur,of the law,"jurisprudence, jury",done
+prefix,just,fair,"justice, justify",done
+prefix,macro,large,macroscopic,done
+prefix,mal,bad,"malfeasance, maleficent, malaise",done
+prefix,mega ,"large, massive","megaphone, megadose, megabyte",done
+prefix,micro,"small, tiny","microcosm, microphone, microscope",done
+prefix,mid,middle. midpoint,"midnight, midseason, midterm",done
+prefix,mis,"incorrect, bad, wrongful","misappropriate, misunderstand, misuse",done
+prefix,mono,"one, singular","monogamous, monotone, monochrome",done
+prefix,morph,change,"morphology, morphine",done
+prefix,mort,of death,"mortuary, mortician, mortal",done
+prefix,multi,many,"multiple, multitude, multiply",done
+prefix,nat,of life,"natural, nature, native",done
+prefix,necro,of dead bodies,"necropolis, necrophilia, necropsy",done
+prefix,negr,black,negroid,done
+prefix,noct,of night,nocturnal,done
+prefix,non,"not, lacking, without","nonexistent, nonfiction, nonnegotiable",done
+prefix,oct,eight,"octagon, octoganarian, octopus",done
+prefix,over,"too much, excessive","overcook, overdone, overwrought",done
+prefix,para,"beyond, above","paranormal, paralegal, parachute",done
+prefix,ped,of children or feet,"pediatric, pedophile, pedometer, pedal",done
+prefix,poly,many,"polygamy, polyester, polyandry",done
+prefix,post,after,"postdate, postscript, post-war",done
+prefix,pre,"before, prior to","prefix, preliminary, preschool",done
+prefix,press,of force,"pressure, pressing",done
+prefix,preter,beyond,preternatural,done
+prefix,quad,four,"quadratic, quadrant, quadruplet",done
+prefix,quin,five,"quintuplet, quinary",done
+prefix,re,"again, do over","reconsider, re-evaluate, rewrite",done
+prefix,sect,separate,"section, sector",done
+prefix,seme,"partial, somewhat, less than fully","semester",done
+prefix,semi,"partial, somewhat, less than fully","semiconductor, semi-retired, semitone",done
+prefix,sept,seven,septuplet,done
+prefix,sex,"reproduction, six","sexual, sexy, sexagon, sexism",done
+prefix,son,of sound,"sonic, sonorous, sonar",done
+prefix,sub,"below, beneath","subjugate, submarine, sub-par",done
+prefix,super,above,"supernatural, superfluous, supercilious, superfluous, supersonic",done
+prefix,sym,"together, with","symmetry, symbol, sympathy",done
+prefix,syn,together,"syntax, synthetic, synchronize",done
+prefix,tele,projecting,"telescope, telekinesis, telegraph",done
+prefix,term,the end,"terminal, terminus, terminate",done
+prefix,trans,"across, change","transferrence, transgender, translate",done
+prefix,tri,three,"triangle, trifecta, triumvirate",done
+prefix,un,"opposite, not, lacking","unkind, unresponsive, unruly",done
+prefix,uni,"one, singular","unicycle, uniform, universe",done
+prefix,viv,life,"vivisection, vivid, vivacious",done
+suffix,able,capable of being,"preventable, adaptable, predictable",done
+suffix,al,pertaining to,"theatrical, natural, criminal, seasonal",done
+suffix,ant,inclined to or tending to,"vigilant, defiant, brilliant, reliant",done
+suffix,ary,of or relating to,"budgetary, planetary, military, honorary",done
+suffix,ate,move,"gyrate, undulate, postulate",done
+suffix,ed,past-tense version of a verb,"laughed, climbed, called, missed",done
+suffix,ee,individual does something,"referee, employee, trustee, retiree",done
+suffix,eer,"engaged in something, associated with something","auctioneer, volunteer, engineer, profiteer",done
+suffix,en,become,"soften, fasten, lengthen, strengthen",done
+suffix,er,"action or process, making an adjective comparative","faster, bigger, fuller, longer",done
+suffix,er,someone who performs an action,"helper, teacher, preacher, dancer",done
+suffix,eum,place where something happens,"museum, coliseum, mausoleum",done
+suffix,eur,performer of something,"provacateur, restauranteur",done
+suffix,ful,full of or notable of,"grateful, beautiful, wonderful, fanciful",done
+suffix,gon,multi-sided shape,"polygon, dodecahedron",done
+suffix,ian,exhibiting the qualities of,"amphibian, thespian, reptilian",done
+suffix,ible,capable of being,credible,done
+suffix,ible,exhibiting the qualities of,"sensible, reprehensible, terrible",done
+suffix,ic,relating to,"iconic, organic, heroic, poetic",done
+suffix,ing,verb form/present participle of an action,"laughing, swimming, driving, writing",done
+suffix,ion,the action or process of,"celebration, opinion, decision, revision",done
+suffix,ise,to cause or to become,advertise,done
+suffix,ish,having the quality of,"squeamish, childish, sluggish",done
+suffix,ism,"theory, act or belief","criticism, humanism, professionalism, patriotism",done
+suffix,ist,person who practices something,"dentist, receptionist, psychologist",done
+suffix,istry,the study of something,"chemistry, sophistry, dentistry",done
+suffix,ity,the state or condition of,"probability, equality, abnormality, civility",done
+suffix,ium,place where something happens,"aquarium, podium, stadium",done
+suffix,ive,quality or nature of,"creative, expensive, expressive, preventive",done
+suffix,ize,to cause or to become,"memorialize, authorize, commercialize",done
+suffix,less,without something,"hopeless, faultless, fearless, restless",done
+suffix,let,occuring together,"couplet, triplet",done
+suffix,ly,in what manner something is being done,"bravely, simply, honestly, gladly",done
+suffix,ment,the action or result of,"movement, retirement, abandonment, establishment",done
+suffix,ness,a state or quality,"fondness, awareness, kindness, darkness",done
+suffix,opolis,the place where something occurs,metropolis,done
+suffix,or,a person who is something,"distributor, investigator, translator, conductor",done
+suffix,ous,having qualities of,"gracious, cautious, humorous, fabulous",done
+suffix,sect,"take apart, divide","bisect, resect, dissect",done
+suffix,ship,position held,"worship, ownership, courtship, internship",done
+suffix,sion,state or being,"depression, confusion, tension, compulsion",done
+suffix,some,having the quality of,"handsome, lonesome, fearsome",done
+suffix,th,state or quality,"strength, labyrinth, depth, warmth",done
+suffix,ward,in a certain direction,"backward, wayward, awkward, afterward",done
+suffix,wise,in relation to,"clockwise, edgewise, lengthwise, otherwise",done
+suffix,y,made up of or characterized by,"brainy, fruity, tasty, grouchy",done

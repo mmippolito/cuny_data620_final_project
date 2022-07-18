@@ -1,0 +1,15 @@
+Basque | depresioa | sioa
+Catalan | depressió | ssió
+Danish | depression | ssion
+Dutch | depressie | ssie
+Estonian | depressioon | ssioon
+French | dépression | ssion
+German | depression | ssion
+Hungarian | depresszió | sszió
+Italian | depressione | ssione
+Latvian | depresija | sija
+Luxembourg | depressiounen | ssiounen
+Norwegian | depresjon | sjon
+Portuguese | depressao | ssao
+Spanish | depresión | sión
+Swedish | depression | ssion

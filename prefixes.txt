@@ -1,0 +1,40 @@
+prefix	a	lacking, without, not	amoral, atheist, abiotic
+prefix	ab	away, removed, not	abnormal, abstract, absent
+prefix	an	without, not, lacking	anaerobic, anacoustic, anhydrous
+prefix	anti	against, opposing, contrary to	antibiotic, antifreeze, antisocial
+prefix	contra	contrary to, against, opposing	contraindicated, contralateral, contraflow
+prefix	counter	opposing, contrary to, against	counterproposal, counteroffer, counter-attack
+prefix	de	reverse, undo, remove	deactivate, de-ice, deplane
+prefix	dis	remove, separate, apart from	disagree, disapprove, disconnect
+prefix	ex	away from, former, lacking	ex-husband, ex-wife, ex-boss
+prefix	il	not, lacking, without	illegal, illegible, illogical
+prefix	im	without, not, lacking	impossible, improper, impermeable
+prefix	in	no, without, lacking	injustice, incomplete, invisible
+prefix	ir	not, non, opposite	irreversible, irreplaceable, irregular
+prefix	non	not, lacking, without	nonexistent, nonfiction, nonnegotiable
+prefix	un	opposite, not, lacking	unkind, unresponsive, unruly
+prefix	ante	before, prior to, front	antebellum, antechamber, anterior
+prefix	auto	self, one's self, yourself	autobiography, autograph, autonomy
+prefix	circum 	around, go around	circumnavigate, circumscribe, circumvent
+prefix	co	jointly, with, together	coexist, copilot, coworker
+prefix	com	together, with	commiserate, compartment, community
+prefix	con	with, together	confound, confluence, conversation
+prefix	en	put into, surround	encase, endow, envelope
+prefix	exo	out, outer	exhale, extend, exoskeleton
+prefix	extra	beyond, more	extracurricular, extraterrestrial, extravert
+prefix	hetero	different, not the same	heterogeneous, heterosexual, heterocyst
+prefix	homo	same, not different	homogenize, homophone, homosexual
+prefix	hyper	extreme, beyond	hyperactive, hyperspace, hypertension,
+prefix	inter	between, in the midst of, among	intermittent, intersect, interstate
+prefix	mega 	large, massive	megaphone, megadose, megabyte
+prefix	micro	small, tiny	microcosm, microphone, microscope
+prefix	mid	middle. midpoint	midnight, midseason, midterm
+prefix	mis	incorrect, bad, wrongful	misappropriate, misunderstand, misuse
+prefix	mono	one, singular	monogamous, monotone, monochrome
+prefix	over	too much, excessive	overcook, overdone, overwrought
+prefix	post	after	postdate, postscript, post-war
+prefix	pre	before, prior to	prefix, preliminary, preschool
+prefix	re	again, do over	reconsider, re-evaluate, rewrite
+prefix	semi	partial, somewhat, less than fully	semiconductor, semester, semi-retired
+prefix	sub	below, beneath	subjugate, submarine, sub-par
+prefix	trans	across, change	transferrence, transgender, translate
