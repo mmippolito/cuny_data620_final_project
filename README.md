@@ -2,7 +2,8 @@
 CUNY DATA620<br />
 Final Project</h3>
 <br />
-
+<h2>Using NetworkX Graphs to Group Similar European Languages</h2>
+<br />
 <h3>Project Overview</h3>
 <br />
 It is common knowledge that many world languages are related to each other, with some borrowing words from others. For this project, I investigated similar words across various world languages, with the end goal being two-fold. First, I'll demonstrate how NLP and graph analytics can be used to evaluate which languages are most similar to each other. And second, I'll specificially focus on evaluating quantitatively which languages are most similar to several common languages. This isn't intended to be a comprehensive etymological study, but instead an application of both NLP and network graphs to perform a specific, limited analysis.<br />
