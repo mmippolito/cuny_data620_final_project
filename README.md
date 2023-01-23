@@ -2,7 +2,7 @@
 CUNY DATA620<br />
 Final Project</h3>
 <br />
-<h2>Using NetworkX Graphs to Group Similar European Languages</h2>
+<h2>Using Network Graph Analysis to Cluster Similar European Languages</h2>
 <br />
 <h3>Project Overview</h3>
 <br />
